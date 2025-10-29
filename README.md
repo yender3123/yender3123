@@ -10,5 +10,7 @@
 
 3.Блог(с использованием Flask): https://github.com/yender3123/Flask
 
+4.Заметки: https://github.com/yender3123/SQLnotes
+
 ---
 https://t.me/robrol2 - Связь со мной
